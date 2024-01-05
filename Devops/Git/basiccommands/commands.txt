@@ -1,0 +1,22 @@
+1:  git init - initialization
+2:  git config user.name “your name” - configuration
+    git config user.email ”your email” - configuration
+3:  git add filename – for particular file
+    git add . – for all file
+    git add *.ext – for extension(like .py,.java,.html,.css)
+4:  git commit _m “message” – file move from stage area to local repo
+5:  git remote add origin url – to connect local repo to remote repo
+6:  git push origin master/branch – for pushing the file to remote repo
+7:  git log – to see the history of commits
+    git log - - oneline – commits in single line
+8:  git status – files between working directory and staging area
+9:  git clone url – to get files from remote repo to local repo
+10: git rm - - cached filename – remove file from remote repo 
+11: git branch branchname – to create a branch
+12: git checkout branch name – for switching branch
+13: git branch – to check all the branch
+14: git checkout -b branchname – to create a new branch and automatic switch   
+15: git log -number – to check the number of lines of commit
+16: git log filename – to see commit of particular file
+17: history – to see history of all command                     
+

@@ -1,0 +1,11 @@
+1 cat filename.ext = see the content of the particular file 
+2 echo "message" = to print the message 
+3 clear = clear the screen 
+4 history = see the history of commands 
+5 man commandname = to see the manual of the command 
+6 whoami = who is the user 
+7 pwd directoryname = saw the directory path (pwd:present working directory) 
+8 ls = list of directory 
+ flags 
+ls -l = with permission[d:directory, r:read, w:write, x:executable] 
+ls -a = to see the hidden files & directory 

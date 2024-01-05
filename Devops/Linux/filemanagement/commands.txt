@@ -1,0 +1,16 @@
+1 mkdir filename = create directory 
+2 flags 
+3 mkdir dir1 dir2 dir3 
+4 mkdir -p dir/subdir/subdir = create at a time by following the path 
+5 cd filename = change directory 
+6 cd .. = return back to previous directory 
+7 touch filename.ext = create a file 
+8 flags 
+9 touch f1 f2 f3 
+10 touch filename{1..n}.ext 
+11 rmdir dirname = delete the dir 
+12 rm filename.ext = delete the file 
+13 rm -r dirname = it will delete the dir with file 
+14 mv filename directory = move the file from one place to another 
+15 cp filename directory = copy file to another place 
+16 mv oldname newname = renaming the file/directory 

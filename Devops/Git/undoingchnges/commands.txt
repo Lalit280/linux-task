@@ -1,0 +1,7 @@
+1 git rm --cached filename   - remove file in the remote repo 
+2 rm filename     - remove file in the working directory
+3 git config --edit   - undo the configure changes 
+4 git remote rm origin - the remove the remote repo 
+5 git checkout filename - to undo changes to a particular file 
+6 git checkout .   - to undo changes to all the files
+7 git commit --ammend   - to edit the commit message
